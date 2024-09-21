@@ -1,23 +1,35 @@
-👋 Hello! I'm Gustavo Duarte
+# 🌥️ Gustavo Duarte - Cloud Solutions Architect
 
-🌐 Cloud Specialist & DevOps Enthusiast
-I'm a cloud computing and DevOps specialist with extensive experience in managing multi-cloud environments, including AWS, OCI, Huawei Cloud, and Azure. My expertise spans across cloud architecture design, deployment automation, and infrastructure management using Kubernetes.
+---
 
+👋 Hi! I'm **Gustavo Duarte**, a passionate **Cloud Solutions Architect** with expertise across multiple cloud platforms and DevOps practices.
 
-🛠️ Core Expertise:
-Cloud Providers: AWS, Oracle Cloud (OCI), Huawei Cloud, Azure
-DevOps: Kubernetes, CI/CD, GitOps, Containerization (Docker, Helm)
-Infrastructure as Code (IaC): Terraform, Ansible
-Networking: VPNs, Load Balancers, VPC Configurations
+🚀 **What I Do:**
+- **Cloud Platforms:** AWS | OCI | Huawei Cloud | Azure
+- **Infrastructure as Code:** Terraform
+- **Container Orchestration:** Kubernetes
+- **CI/CD & Version Control:** GitHub, DevOps
 
-🚀 What I Do:
-I focus on enabling scalable, secure, and cost-effective cloud infrastructures, with a strong emphasis on automation and orchestration. From seamless container orchestration with Kubernetes to cloud-native application development, I thrive on solving complex challenges in distributed systems.
+---
 
+### 🛠️ Technologies & Tools:
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![OCI](https://img.shields.io/badge/Oracle_Cloud-FF0000?style=for-the-badge&logo=oracle&logoColor=white)
+![Huawei Cloud](https://img.shields.io/badge/Huawei_Cloud-FF0000?style=for-the-badge&logo=huawei)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-🔧 Tools & Technologies:
-Kubernetes (K8s), Docker, Helm
-Terraform, Ansible, Jenkins
-CloudFormation, Azure DevOps
-Monitoring: Prometheus, Grafana
-📈 Passion for Continuous Learning:
-I am always eager to adopt new tools, trends, and technologies that improve cloud performance and deployment processes. Check out my repos for the latest cloud infrastructure templates and DevOps pipelines!
+---
+
+### 🌟 Featured Projects:
+- **[Multi-Cloud Infrastructure Automation](https://github.com/gustavo/infra-automation):** A comprehensive IaC project leveraging Terraform to deploy across AWS, OCI, and Azure.
+- **[Kubernetes Clusters at Scale](https://github.com/gustavo/k8s-scale):** Automating Kubernetes cluster deployments for multi-region applications.
+- **[CI/CD Pipelines with GitHub Actions](https://github.com/gustavo/cicd-pipeline):** An end-to-end CI/CD pipeline setup using GitHub Actions.
+
+---
+
+### 📫 Let's Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-duarte-360298b6/)
+
